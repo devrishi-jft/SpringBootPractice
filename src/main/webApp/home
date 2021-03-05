@@ -1,0 +1,11 @@
+<%@ page import ="java.util.*" %>
+<!DOCTYPE html>
+<html>
+<body>
+<form action="adddAlien">
+    <input type="text" name="aid">
+    <input type="text" name="aname">
+    <input type="submit">
+</form>
+</body>
+</html>
